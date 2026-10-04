@@ -37,7 +37,7 @@ git commit -m "init: Khởi tạo dự án"
 git remote add origin <URL_REPO_CỦA_BẠN>
 git push -u origin main
 
-(nếu bị lỗi thêm git push origin main --foccer)
+(nếu bị lỗi thêm git push origin main --force)
 ```
 
 ---
