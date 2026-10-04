@@ -36,6 +36,8 @@ git commit -m "init: Khởi tạo dự án"
 # Kết nối với GitHub (Thay URL bằng link repo của bạn trên Classroom)
 git remote add origin <URL_REPO_CỦA_BẠN>
 git push -u origin main
+
+(nếu bị lỗi thêm git push origin main --foccer)
 ```
 
 ---
